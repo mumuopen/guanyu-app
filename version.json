@@ -13,6 +13,7 @@
     "sizeBytes": 62403338,
     "sha256": "6D3AF89BFA36008A8892C75EAC54E2287F84864868BDB8BCB90EB133B49C7E1D",
     "sources": [
+      "https://modelscope.cn/models/aoecal/guanyu-asr-model/resolve/master/guanyu-asr-model-whisper-tiny-en-v1.zip",
       "https://github.com/mumuopen/guanyu-app/releases/download/v0.10.0/guanyu-asr-model-whisper-tiny-en-v1.zip"
     ]
   }
