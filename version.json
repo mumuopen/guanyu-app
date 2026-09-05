@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "versionCode": 6,
-  "downloadUrl": "https://gitee.com/mumu-liquid/guanyu-app/releases/download/v0.10.0/guanyu-v0.10.0-arm64.apk",
-  "releaseNotes": "观语 v0.10.0：更名「观语」，全新图标；GitHub / Gitee 双平台发布",
+  "version": "0.11.0",
+  "versionCode": 7,
+  "downloadUrl": "https://gitee.com/mumu-liquid/guanyu-app/releases/download/v0.11.0/guanyu-v0.11.0-arm64.apk",
+  "releaseNotes": "观语 v0.11.0：跟读评测本地化——离线语音识别 · 模型按需下载 · 断网可用",
   "downloadUrls": {
-    "arm64-v8a": "https://gitee.com/mumu-liquid/guanyu-app/releases/download/v0.10.0/guanyu-v0.10.0-arm64.apk",
-    "armeabi-v7a": "https://gitee.com/mumu-liquid/guanyu-app/releases/download/v0.10.0/guanyu-v0.10.0-arm32.apk"
+    "arm64-v8a": "https://gitee.com/mumu-liquid/guanyu-app/releases/download/v0.11.0/guanyu-v0.11.0-arm64.apk",
+    "armeabi-v7a": "https://gitee.com/mumu-liquid/guanyu-app/releases/download/v0.11.0/guanyu-v0.11.0-arm32.apk"
   },
   "asrModel": {
     "id": "whisper-tiny-en-int8",
